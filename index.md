@@ -1,68 +1,25 @@
 ---
-title: "NYC Shooting Incidents Analysis"
+title: "Juan Zumaran MS DAV Portfolio"
 layout: default
 ---
 
 
-# NYC SHOOTING INCIDENT DATA
-## By Juan Zumarán
-
-I created this website with a python notebook, using data from NYC Open Data, a public dataset with data for at least this year and the historic records. 
-
-This project investigates the spatial and temporal relationships between shooting incidents in New York City, The core objective is not to claim any conclusion on the cause or nature of these incidents, but to visualize and analyze patterns that may reveal longstanding systemic inequalities across NYC boroughs. 
-
-The final deliverable will be a series of interactive plotly visuals accompanied by a narrative that tell a data-driven story about the urban landscape of violence and poverty. This project is to be expressed digitally, not in print, and in an interactive way, not static. Ideally, this project could live in a repository in Github and later be developed into a static website in which the visualizations maintain their ability to be interactive.
-
-# How to interact and use these visuals: A tutorial on how to be a user of plotly. 
-
-Hovering over the data is useful.
-Clicking on/off data points can be messy.
-Zooming In/Out is different than the intuitive scroll. To zoom in on a visual, the user needs to make two clicks, one as a starter point, and then drag the cursor around to generate a window that once the user lets go, it will expand into screen and only show what the cursor selected.
-Nothing is going to break over the user interacting.
-
-# Daily Occurrences Over Time
-
-[Click here to open the interactive Daily Occurrences Over Time chart.](https://juanito040102.github.io/NYC_Shooting_Incidents/Daily_OT.html)
-
-# Occurrences by Hour of the Day
-
-[Click here to open the interactive Occurrances by hour.](https://juanito040102.github.io/NYC_Shooting_Incidents/Hour_of_Day.html)
-
-# Occurrences by month of the year
-
-[Click here to open the interactive Occurrances by Month.](https://juanito040102.github.io/NYC_Shooting_Incidents/Occur_by_month.html)
+# Project 1: Visualizing Water Availability in Uruguayan Soil: 
+## This project's core accomplishment was the large-scale geospatial data wrangling required to synthesize Uruguay's fragmented environmental landscape into a unified analytical model for the first time. Over three months, I acquired, merged, and processed five massive public datasets spanning water availability, elevation, forest cover, waterways, and historical forest fires. The most significant technical hurdle was merging 495 individual files totaling over 2 GB of raw data to create a single, seamless national elevation layer, which served as the foundational canvas. This was integrated with the other nationwide datasets using a suite of advanced GIS statistical and spatial analysis tools to model the complex interactions between variables like topography, water accumulation, and land cover.
 
 
-# Heatmap with Monthly Averages
-[Click here to open the interactive Heatamp with monthly averages.](https://juanito040102.github.io/NYC_Shooting_Incidents/Heatmap.html)
+# Project 2: Mapping and Analyzing Education Atainment and Race in Montevideo, Uruguay. Developed using ArcGIS Pro
+## This project investigates the spatial relationship between race, education attainment, and unemployment in Montevideo, Uruguay, testing whether geographic context improves predictive power over traditional linear models. As the sole analyst, I designed a comparative modeling workflow using ArcGIS, training both an Ordinary Least Squares (OLS) regression and a Multiscale Geographically Weighted Regression (MGWR) to predict unemployment rates across census tracts while incorporating spatial autocorrelation and racial demographic data. The final deliverable demonstrates my ability to work across the full lifecycle of a spatial data science project, from data acquisition and exploratory spatial analysis to advanced geostatistical modeling and interpretation of coefficients that became significant only when geography was accounted for. The MGWR model explained 90% of the variance in unemployment rates, a substantial improvement over OLS, revealing that the effects of education and race on unemployment vary significantly across Montevideo—with the highly educated, predominantly White neighborhoods in the south showing markedly different patterns than the less White, lower-education areas at the city's edges.
 
 
-# Top 20 Dates with most incidents
+# Project 3: Mapping and Analyzing Cannabis Possesion Arrests and Race in NYC using NYPD and Census Data. Developed using ArcGIS Pro.
+## This Story Map project investigates the spatial relationship between race and cannabis possession arrests in New York City from 2020 to 2023, testing the hypothesis that arrests are spatially correlated with the ethnic composition of neighborhoods across Brooklyn, Queens, and Manhattan. As the sole analyst, I designed a comprehensive geoprocessing workflow using ArcGIS, including clipping, spatial joins, projection, tessellation, and Getis-Ord Gi hotspot analysis, to quantify patterns and transform raw arrest data into an interactive web map that visualizes statistically significant clusters alongside census tract ethnicity data. The final deliverable demonstrates my ability to work across the full lifecycle of a spatial data project, from data acquisition and geoprocessing to the creation of a narrative-driven Story Map that makes complex spatial patterns accessible to diverse audiences. The analysis revealed that hotspots with 99% confidence, including Harlem, Bedford-Stuyvesant, and Jamaica, align predominantly with Black-majority neighborhoods, while cold spots correspond to predominantly White or Asian areas, illustrating how spatial analysis can reveal patterns that merit deeper examination within broader discussions of equity and policing.
 
-[Click here to open the Top 20 dates with the most incidents.](https://juanito040102.github.io/NYC_Shooting_Incidents/Dates_Most_Incidents.html)
+# Article 1: 
+##
 
+# Article 2: 
+##
 
-# Incidents by borough, colored by Race of the Victim
-
-[Click here to open the interactive Bar Charts Incidents by Borough.](https://juanito040102.github.io/NYC_Shooting_Incidents/By_Borough_Vic_Race.html)
-
-
-# Incidents by Victim; Race, Sex and Age group
-
-[Click here to open the interactive Incidents by Victim demographics.](https://juanito040102.github.io/NYC_Shooting_Incidents/Vic_Sex_Age_Race.html)
-
-
-# Map of all incidents
-
-[Click here to open the interactive Map.](https://juanito040102.github.io/NYC_Shooting_Incidents/Map_all.html)
-
-
-
-# Map of every year's incidents
-
-[Click here to open the interactive Map which contains the records per year.](https://juanito040102.github.io/NYC_Shooting_Incidents/Map_per_year.html)
-
-
-
-
-
+# Article 3: Navigating Social Media as a Transgender User: 
+##
