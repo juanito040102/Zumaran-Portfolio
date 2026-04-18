@@ -434,7 +434,7 @@ In retrospect, the analysis could have been complex and intense, having simple v
 difficult to execute and understand ones.
 
 # Article 2: How does Smoking Affect the Risk of Developing Chronic Heart Disease?
-##Introduction
+## Introduction
 
 Heart disease remains one of the leading causes of death worldwide, and understanding the risk factors behind it is critical for both prevention and early intervention. In this paper, I use data from the well-known Framingham Heart Study to explore what conforms a patient’s risk of developing Coronary Heart Disease (CHD) over a ten-year period. The variable at the center of this analysis is ‘TenYearCHD’, which indicates whether a patient was considered at high risk of experiencing a heart-related event within the next decade. This binary (1 for high risk, 0 for low risk) serves as the outcome in a logistic regression model, which I use to understand and predict heart disease risk.
 
