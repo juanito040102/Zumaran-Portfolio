@@ -582,7 +582,7 @@ The odds ratios of this stepwise model are similar to the third model. Being cla
 
 Results
 
-
+![Results](Results_1.png)
 
 RQ1: How does smoking affect the risk of developing heart disease?
 
@@ -615,103 +615,80 @@ Both Null hypothesis were rejected, and the alternate hypothesis were supported 
 Visualizations
 
 
+![Age](Age.png)
 
 Histogram: Age Variable Distribution, separated by risk group ‘TenYearCHD’
 
-
-
+![Cgis](Cgis.png)
 Histogram: CigsPerDay Variable Distribution, the variable shows how many individuals smoke how many cigarettes per day.
 
-
-
+![Cholesterol](Cholesterol.png)
 Histogram: totChol Variable Distribution, the variable contains the values of total Cholesterol in each patient.
 
-
-
+![sysbp](SysBP.png)
 Histogram: sysBP Variable Distribution, the variable sysBP contains the data for the systolic blood pressure of the patients. Additionally, the histogram is separated by the risky group of individuals and the not risky patients.
 
-
-
+![diabp](DiaBP.png)
 Histogram: diaBP Variable Distribution, the graphs shows the diastolic blood pressure of the patients, separated into the two groups of patients; risky and not risky. 
 
-
-
+![BMI](BMI.png)
 Histogram: BMI Variable Distribution, the graph shows the distribution of the Body Mass Index variable. 
 
-
-
+![Heartrate](Heartrate.png)
 Histogram: HeartRate Variable Distribution, the histogram shows the values of the heart rate of all the patients. 
 
-
-
+![Correlations_continous](Corr.png)
 Matrix: Correlations of Continuous Variables, the matrix shows the correlation between all of the continuous variables in the dataset.
 
-
-
+![Correlations_binary](Corr2.png)
 Matrix: Correlations of Binary Variables, the matrix shows the correlation between all of the continuous variables in the dataset.
 
-
-
+![Correlations_all](Corr3.png)
 Matrix: Correlations of All Variables
 
-
-
+![sys_vs_dia](sysbp:diabp.png)
 ScatterPlot: SysBP versus DiaBP, legend = PrevalentHyp, and the data is the subset of risky individuals, meaning TenYearCHD ==1. The graph shows how the values interact with each other, the trends, and the differences between the two groups; people with hypertension or not. 
 
-
-
+![age_cigarettes](age:cigs.png)
 ScatterPlot: Age versus CigsPerDay, legend = PrevalentHyp, and the data is the subset of risky individuals, meaning TenYearCHD ==1. The graph shows how the values interact with each other, the trends, and the differences between the two groups; people with hypertension or not. 
 
-
-
+![age_pulsepressure](age:(sys-dia).png)
 ScatterPlot: Age versus PP (Pulse Pressure), legend = PrevalentHyp, and the data is the subset of risky individuals, meaning TenYearCHD ==1. The graph shows how the values interact with each other, the trends, and the differences between the two groups; people with hypertension or not. 
 
-
-
+![regression1](Regression1.png)
 Regression Summary: Model 1 logistic regression output.
 
-
-
+![vif1](VIF1.png)
 VIF Analysis Summary: Model 1 logistic regression Variance Inflation Factor Table
 
-
-
+![oddsratio1](OddsRatio1.png)
 Odds Ratio: Model 1 logistic regression odds ratio table.
 
-
-
+![regression2](regression2.png)
 Regression Summary: Model 2 Stepwise model regression output: 
 
-
-
+![vif2](VIF2.png)
 VIF Analysis Summary: Model 2 stepwise regression Variance Inflation Factor:
 
-
-
+![oddsratio2](Oddsratio2.png)
 Odds Ratio: Model 2 stepwise regression odds ratio table.
 
-
-
+![regression3](Regrssion3.png)
 Regression Summary: Model 3 logistic regression with interaction terms and new variables regression output table.
 
-
-
+![vif3](VIF3.png)
 VIF Analysis Summary: Model 3 logistic regression Variance Inflation Factor:
 
-
-
+![oddsratio3](Oddsratio3.png)
 Odds Ratio: Model 3 logistic regression odds ratios table.
 
-
-
+![regression4](regression4.png)
 Regression Summary: Model 4 stepwise model regression output table.
 
-
-
+![vif4](VIF4.png)
 VIF Analysis Summary: Model 4 logistic regression Variance Inflation Factor:
 
-
-
+![oddsratio4](Oddsratio4.png)
 Odds Ratio: Model 4 logistic regression odds ratio table.
 
 References
