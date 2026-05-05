@@ -796,7 +796,7 @@ This study resonates deeply with my personal experience of using social media as
 
 Comparing Some Different Social Media Policies
 
-
+![SocialMediaPolicies](policies.png)
 
 Community standards are key to how community members behave and use social media. A study points out that “more research is also needed on how community standards evolve” and this analysis I have conducted will probably already be outdated and some of these extracts may have changed. (Bateman, Jon, Natalie Thompson, and Victoria Smith., 2021). I argue that a good indicator of how social media companies make their platforms online spaces and in the case of trans users may be finding information about gender-reaffirming surgery, which Oliver Haimson points out in “Tumblr was a trans technology”. But also adult nudity overall, and studying specifically what has been written about Meta’s ‘Real Name Policy’ are important parts of how social media community standards influence operations. These companies all have for-profit models, and inherently, their users well being is not the priority, since the algorithm itself feeds off the addiction some people have to use social media excessively because of their mental health. 
 
