@@ -1,5 +1,5 @@
 title: "Juan Zumaran Portfolio"
-description: "Compliation of Data Visualization Projects realized during my MS DAV (data analytics and visualization) at Pratt Institute between 2024 and 2026"
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-cayman
+description: "Compilation of Data Visualization Projects realized during my MS DAV (data analytics and visualization) at Pratt Institute between 2024 and 2026"
+remote_theme: pages-themes/cayman
+plugins:
+  - jekyll-remote-theme
